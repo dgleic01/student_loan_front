@@ -47,5 +47,9 @@
 	}],
 	"profile": {
 		"name": "typicode"
+	},
+	"info":
+	{
+		"total_count": 8 
 	}
 }
