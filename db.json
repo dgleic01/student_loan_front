@@ -1,5 +1,5 @@
 {
-	"sample": {
+	
 	"posts": [{
 		"id": 1,
 		"title": "Post 1"
@@ -52,5 +52,4 @@
 	"info": {
 		"total_count": 8 
 	}
-  }
 }
